@@ -1,12 +1,25 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+# CareRide Transport
+# About
+CareRide Transport offers accessible, non-medical transportation services in Central Ohio. Utilizing React and Spring Boot, it aims to provide a seamless booking experience for users and efficient management for employees.
 
-1. Click "Use this template" > "Create a new repository".
-2. Leave "Include all branches" unckecked.
-3. Give your repo a sensible name and description.
-4. Click "Create repository".
-5. Finally, clone the repository to your local machine.
-Happy coding!
+# Features
+User-friendly booking and scheduling
+Real-time notifications for users
+Dedicated portals for customers and employees
+# Getting Started
+# Prerequisites
+Java 17
+Node.js
+PostgreSQL
+Setup
+Backend:
+
+# Clone the repo and cd into backend.
+Install Maven dependencies and configure PostgreSQL in application.properties.
+Run mvn spring-boot:run.
+Frontend:
+
+cd into frontend, run npm install then npm start.
+Visit http://localhost:3000.
+# Contributing
+Contributions are welcome! Fork the repo, commit your changes, and open a pull request.
